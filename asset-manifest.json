@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baitap_todolist/static/css/main.ad59eaab.css",
+    "main.js": "/baitap_todolist/static/js/main.a582b9f9.js",
+    "index.html": "/baitap_todolist/index.html",
+    "main.ad59eaab.css.map": "/baitap_todolist/static/css/main.ad59eaab.css.map",
+    "main.a582b9f9.js.map": "/baitap_todolist/static/js/main.a582b9f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad59eaab.css",
+    "static/js/main.a582b9f9.js"
+  ]
+}
